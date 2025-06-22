@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\bin\Debug\net9.0\DSA_1.exe
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\bin\Debug\net9.0\DSA_1.deps.json
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\bin\Debug\net9.0\DSA_1.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\bin\Debug\net9.0\DSA_1.dll
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\bin\Debug\net9.0\DSA_1.pdb
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.dll
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\refint\DSA_1.dll
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.pdb
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\DSA_1.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\DotNet\Week_1\DSA_1\obj\Debug\net9.0\ref\DSA_1.dll
